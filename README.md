@@ -47,8 +47,8 @@ This project uses **YOLOv8**, **OpenCV**, and **Flask** to detect relevant road 
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/road-object-detection-alert.git
-cd road-object-detection-alert
+git clone https://github.com/roshanpandit65R/Real-Time-obstacles-Detection-on-road.git
+cd folder path/
 ```
 
 #### 2. Install required dependencies
