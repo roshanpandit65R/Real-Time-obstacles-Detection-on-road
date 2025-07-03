@@ -1,6 +1,6 @@
 # 🚗 Real-Time Road Object Detection with Distance Estimation and Voice Alert
 
-This project uses **YOLOv8**, **OpenCV**, and **Flask** to detect relevant road objects in real-time using a webcam. If any object is detected within a close range (e.g., < 500 cm), the system alerts the user with both a **visual warning** on the screen and a **voice message** saying _"Slow down your car!"_.
+This project uses **YOLOv8**, **OpenCV**, and **Flask** to detect relevant road objects in real-time using a webcam. If any object is detected within a close range (e.g., 10 m), the system alerts the user with both a **visual warning** on the screen and a **voice message** saying _"Slow down your car!"_.
 
 ---
 
